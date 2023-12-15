@@ -1,0 +1,1422 @@
+[
+  {
+    "word": "bee",
+    "number": 338
+  },
+  {
+    "word": "bees",
+    "number": 5338
+  },
+  {
+    "word": "beg",
+    "number": 638
+  },
+  {
+    "word": "begs",
+    "number": 5638
+  },
+  {
+    "word": "beige",
+    "number": 36138
+  },
+  {
+    "word": "belie",
+    "number": 31738
+  },
+  {
+    "word": "belies",
+    "number": 531738
+  },
+  {
+    "word": "bell",
+    "number": 7738
+  },
+  {
+    "word": "belle",
+    "number": 37738
+  },
+  {
+    "word": "belles",
+    "number": 537738
+  },
+  {
+    "word": "bellies",
+    "number": 5317738
+  },
+  {
+    "word": "bells",
+    "number": 57738
+  },
+  {
+    "word": "besiege",
+    "number": 3631538
+  },
+  {
+    "word": "besieges",
+    "number": 53631538
+  },
+  {
+    "word": "bib",
+    "number": 818
+  },
+  {
+    "word": "bible",
+    "number": 37818
+  },
+  {
+    "word": "bibles",
+    "number": 537818
+  },
+  {
+    "word": "bibs",
+    "number": 5818
+  },
+  {
+    "word": "big",
+    "number": 618
+  },
+  {
+    "word": "bile",
+    "number": 3718
+  },
+  {
+    "word": "bilge",
+    "number": 36718
+  },
+  {
+    "word": "bilges",
+    "number": 536718
+  },
+  {
+    "word": "bill",
+    "number": 7718
+  },
+  {
+    "word": "billies",
+    "number": 5317718
+  },
+  {
+    "word": "bills",
+    "number": 57718
+  },
+  {
+    "word": "bless",
+    "number": 55378
+  },
+  {
+    "word": "blesses",
+    "number": 5355378
+  },
+  {
+    "word": "bliss",
+    "number": 55178
+  },
+  {
+    "word": "blisses",
+    "number": 5355178
+  },
+  {
+    "word": "blob",
+    "number": 8078
+  },
+  {
+    "word": "blobs",
+    "number": 58078
+  },
+  {
+    "word": "bob",
+    "number": 808
+  },
+  {
+    "word": "bobbies",
+    "number": 5318808
+  },
+  {
+    "word": "bobble",
+    "number": 378808
+  },
+  {
+    "word": "bobbles",
+    "number": 5378808
+  },
+  {
+    "word": "bobs",
+    "number": 5808
+  },
+  {
+    "word": "bog",
+    "number": 608
+  },
+  {
+    "word": "boggle",
+    "number": 376608
+  },
+  {
+    "word": "boggles",
+    "number": 5376608
+  },
+  {
+    "word": "bogie",
+    "number": 31608
+  },
+  {
+    "word": "bogies",
+    "number": 531608
+  },
+  {
+    "word": "bogs",
+    "number": 5608
+  },
+  {
+    "word": "boil",
+    "number": 7108
+  },
+  {
+    "word": "boils",
+    "number": 57108
+  },
+  {
+    "word": "bole",
+    "number": 3708
+  },
+  {
+    "word": "boles",
+    "number": 53708
+  },
+  {
+    "word": "boll",
+    "number": 7708
+  },
+  {
+    "word": "bolls",
+    "number": 57708
+  },
+  {
+    "word": "boob",
+    "number": 8008
+  },
+  {
+    "word": "boobies",
+    "number": 5318008
+  },
+  {
+    "word": "boobless",
+    "number": 55318008
+  },
+  {
+    "word": "boobs",
+    "number": 58008
+  },
+  {
+    "word": "boogie",
+    "number": 316008
+  },
+  {
+    "word": "boogies",
+    "number": 5316008
+  },
+  {
+    "word": "boos",
+    "number": 5008
+  },
+  {
+    "word": "booze",
+    "number": 32008
+  },
+  {
+    "word": "boozes",
+    "number": 532008
+  },
+  {
+    "word": "bosh",
+    "number": 4508
+  },
+  {
+    "word": "boss",
+    "number": 5508
+  },
+  {
+    "word": "bosses",
+    "number": 535508
+  },
+  {
+    "word": "bozo",
+    "number": 0.208
+  },
+  {
+    "word": "bozos",
+    "number": 50208
+  },
+  {
+    "word": "ebb",
+    "number": 883
+  },
+  {
+    "word": "ebbs",
+    "number": 5883
+  },
+  {
+    "word": "eel",
+    "number": 733
+  },
+  {
+    "word": "eels",
+    "number": 5733
+  },
+  {
+    "word": "egg",
+    "number": 663
+  },
+  {
+    "word": "eggs",
+    "number": 5663
+  },
+  {
+    "word": "eggshell",
+    "number": 77345663
+  },
+  {
+    "word": "eggshells",
+    "number": 577345663
+  },
+  {
+    "word": "ego",
+    "number": 0.63
+  },
+  {
+    "word": "egos",
+    "number": 5063
+  },
+  {
+    "word": "elegies",
+    "number": 5316373
+  },
+  {
+    "word": "eligible",
+    "number": 37816173
+  },
+  {
+    "word": "ell",
+    "number": 773
+  },
+  {
+    "word": "ells",
+    "number": 5773
+  },
+  {
+    "word": "else",
+    "number": 3573
+  },
+  {
+    "word": "gee",
+    "number": 336
+  },
+  {
+    "word": "gees",
+    "number": 5336
+  },
+  {
+    "word": "geese",
+    "number": 35336
+  },
+  {
+    "word": "gel",
+    "number": 736
+  },
+  {
+    "word": "gels",
+    "number": 5736
+  },
+  {
+    "word": "geologies",
+    "number": 531607036
+  },
+  {
+    "word": "gibe",
+    "number": 3816
+  },
+  {
+    "word": "gibes",
+    "number": 53816
+  },
+  {
+    "word": "gig",
+    "number": 616
+  },
+  {
+    "word": "giggle",
+    "number": 376616
+  },
+  {
+    "word": "giggles",
+    "number": 5376616
+  },
+  {
+    "word": "gigolo",
+    "number": 0.70616
+  },
+  {
+    "word": "gigolos",
+    "number": 5070616
+  },
+  {
+    "word": "gigs",
+    "number": 5616
+  },
+  {
+    "word": "gill",
+    "number": 7716
+  },
+  {
+    "word": "gills",
+    "number": 57716
+  },
+  {
+    "word": "glee",
+    "number": 3376
+  },
+  {
+    "word": "glib",
+    "number": 8176
+  },
+  {
+    "word": "glob",
+    "number": 8076
+  },
+  {
+    "word": "globe",
+    "number": 38076
+  },
+  {
+    "word": "globes",
+    "number": 538076
+  },
+  {
+    "word": "globs",
+    "number": 58076
+  },
+  {
+    "word": "gloss",
+    "number": 55076
+  },
+  {
+    "word": "glosses",
+    "number": 5355076
+  },
+  {
+    "word": "glossies",
+    "number": 53155076
+  },
+  {
+    "word": "gob",
+    "number": 806
+  },
+  {
+    "word": "gobble",
+    "number": 378806
+  },
+  {
+    "word": "gobbles",
+    "number": 5378806
+  },
+  {
+    "word": "gobs",
+    "number": 5806
+  },
+  {
+    "word": "goes",
+    "number": 5306
+  },
+  {
+    "word": "goggle",
+    "number": 376606
+  },
+  {
+    "word": "goggles",
+    "number": 5376606
+  },
+  {
+    "word": "gollies",
+    "number": 5317706
+  },
+  {
+    "word": "goose",
+    "number": 35006
+  },
+  {
+    "word": "gooses",
+    "number": 535006
+  },
+  {
+    "word": "gos",
+    "number": 506
+  },
+  {
+    "word": "gosh",
+    "number": 4506
+  },
+  {
+    "word": "goshes",
+    "number": 534506
+  },
+  {
+    "word": "heel",
+    "number": 7334
+  },
+  {
+    "word": "heels",
+    "number": 57334
+  },
+  {
+    "word": "hell",
+    "number": 7734
+  },
+  {
+    "word": "hellish",
+    "number": 4517734
+  },
+  {
+    "word": "hello",
+    "number": 0.7734
+  },
+  {
+    "word": "hellos",
+    "number": 507734
+  },
+  {
+    "word": "hells",
+    "number": 57734
+  },
+  {
+    "word": "hes",
+    "number": 534
+  },
+  {
+    "word": "hie",
+    "number": 314
+  },
+  {
+    "word": "hies",
+    "number": 5314
+  },
+  {
+    "word": "high",
+    "number": 4614
+  },
+  {
+    "word": "highs",
+    "number": 54614
+  },
+  {
+    "word": "hill",
+    "number": 7714
+  },
+  {
+    "word": "hillbillies",
+    "number": 53177187714
+  },
+  {
+    "word": "hills",
+    "number": 57714
+  },
+  {
+    "word": "his",
+    "number": 514
+  },
+  {
+    "word": "hiss",
+    "number": 5514
+  },
+  {
+    "word": "hisses",
+    "number": 535514
+  },
+  {
+    "word": "hob",
+    "number": 804
+  },
+  {
+    "word": "hobbies",
+    "number": 5318804
+  },
+  {
+    "word": "hobble",
+    "number": 378804
+  },
+  {
+    "word": "hobbles",
+    "number": 5378804
+  },
+  {
+    "word": "hobo",
+    "number": 0.804
+  },
+  {
+    "word": "hoboes",
+    "number": 530804
+  },
+  {
+    "word": "hobos",
+    "number": 50804
+  },
+  {
+    "word": "hobs",
+    "number": 5804
+  },
+  {
+    "word": "hoe",
+    "number": 304
+  },
+  {
+    "word": "hoes",
+    "number": 5304
+  },
+  {
+    "word": "hog",
+    "number": 604
+  },
+  {
+    "word": "hoggish",
+    "number": 4516604
+  },
+  {
+    "word": "hogs",
+    "number": 5604
+  },
+  {
+    "word": "hole",
+    "number": 3704
+  },
+  {
+    "word": "holes",
+    "number": 53704
+  },
+  {
+    "word": "hollies",
+    "number": 5317704
+  },
+  {
+    "word": "hose",
+    "number": 3504
+  },
+  {
+    "word": "hoses",
+    "number": 53504
+  },
+  {
+    "word": "ibis",
+    "number": 5181
+  },
+  {
+    "word": "ibises",
+    "number": 535181
+  },
+  {
+    "word": "igloos",
+    "number": 500761
+  },
+  {
+    "word": "ill",
+    "number": 771
+  },
+  {
+    "word": "illegible",
+    "number": 378163771
+  },
+  {
+    "word": "ills",
+    "number": 5771
+  },
+  {
+    "word": "isle",
+    "number": 3751
+  },
+  {
+    "word": "isles",
+    "number": 53751
+  },
+  {
+    "word": "lee",
+    "number": 337
+  },
+  {
+    "word": "lees",
+    "number": 5337
+  },
+  {
+    "word": "leg",
+    "number": 637
+  },
+  {
+    "word": "legible",
+    "number": 3781637
+  },
+  {
+    "word": "legless",
+    "number": 5537637
+  },
+  {
+    "word": "legs",
+    "number": 5637
+  },
+  {
+    "word": "lei",
+    "number": 137
+  },
+  {
+    "word": "leis",
+    "number": 5137
+  },
+  {
+    "word": "les",
+    "number": 537
+  },
+  {
+    "word": "less",
+    "number": 5537
+  },
+  {
+    "word": "lessee",
+    "number": 335537
+  },
+  {
+    "word": "lessees",
+    "number": 5335537
+  },
+  {
+    "word": "lib",
+    "number": 817
+  },
+  {
+    "word": "libel",
+    "number": 73817
+  },
+  {
+    "word": "libels",
+    "number": 573817
+  },
+  {
+    "word": "libs",
+    "number": 5817
+  },
+  {
+    "word": "lie",
+    "number": 317
+  },
+  {
+    "word": "liege",
+    "number": 36317
+  },
+  {
+    "word": "lieges",
+    "number": 536317
+  },
+  {
+    "word": "lies",
+    "number": 5317
+  },
+  {
+    "word": "lilies",
+    "number": 531717
+  },
+  {
+    "word": "lisle",
+    "number": 37517
+  },
+  {
+    "word": "lob",
+    "number": 807
+  },
+  {
+    "word": "lobbies",
+    "number": 5318807
+  },
+  {
+    "word": "lobe",
+    "number": 3807
+  },
+  {
+    "word": "lobes",
+    "number": 53807
+  },
+  {
+    "word": "lobs",
+    "number": 5807
+  },
+  {
+    "word": "log",
+    "number": 607
+  },
+  {
+    "word": "loge",
+    "number": 3607
+  },
+  {
+    "word": "loges",
+    "number": 53607
+  },
+  {
+    "word": "logo",
+    "number": 0.607
+  },
+  {
+    "word": "logos",
+    "number": 50607
+  },
+  {
+    "word": "logs",
+    "number": 5607
+  },
+  {
+    "word": "loll",
+    "number": 7707
+  },
+  {
+    "word": "lolls",
+    "number": 57707
+  },
+  {
+    "word": "loose",
+    "number": 35007
+  },
+  {
+    "word": "looses",
+    "number": 535007
+  },
+  {
+    "word": "lose",
+    "number": 3507
+  },
+  {
+    "word": "loses",
+    "number": 53507
+  },
+  {
+    "word": "loss",
+    "number": 5507
+  },
+  {
+    "word": "losses",
+    "number": 535507
+  },
+  {
+    "word": "obese",
+    "number": 35380
+  },
+  {
+    "word": "oblige",
+    "number": 361780
+  },
+  {
+    "word": "obliges",
+    "number": 5361780
+  },
+  {
+    "word": "oboe",
+    "number": 3080
+  },
+  {
+    "word": "oboes",
+    "number": 53080
+  },
+  {
+    "word": "obsess",
+    "number": 553580
+  },
+  {
+    "word": "obsesses",
+    "number": 53553580
+  },
+  {
+    "word": "ogle",
+    "number": 3760
+  },
+  {
+    "word": "ogles",
+    "number": 53760
+  },
+  {
+    "word": "oho",
+    "number": 0.40
+  },
+  {
+    "word": "ohos",
+    "number": 5040
+  },
+  {
+    "word": "ohs",
+    "number": 540
+  },
+  {
+    "word": "oil",
+    "number": 710
+  },
+  {
+    "word": "oils",
+    "number": 5710
+  },
+  {
+    "word": "oleo",
+    "number": 0.370
+  },
+  {
+    "word": "ooze",
+    "number": 3200
+  },
+  {
+    "word": "oozes",
+    "number": 53200
+  },
+  {
+    "word": "see",
+    "number": 335
+  },
+  {
+    "word": "sees",
+    "number": 5335
+  },
+  {
+    "word": "seize",
+    "number": 32135
+  },
+  {
+    "word": "seizes",
+    "number": 532135
+  },
+  {
+    "word": "sell",
+    "number": 7735
+  },
+  {
+    "word": "sells",
+    "number": 57735
+  },
+  {
+    "word": "she",
+    "number": 345
+  },
+  {
+    "word": "shell",
+    "number": 77345
+  },
+  {
+    "word": "shells",
+    "number": 577345
+  },
+  {
+    "word": "shes",
+    "number": 5345
+  },
+  {
+    "word": "shies",
+    "number": 53145
+  },
+  {
+    "word": "shill",
+    "number": 77145
+  },
+  {
+    "word": "shills",
+    "number": 577145
+  },
+  {
+    "word": "shoe",
+    "number": 3045
+  },
+  {
+    "word": "shoes",
+    "number": 53045
+  },
+  {
+    "word": "shoos",
+    "number": 50045
+  },
+  {
+    "word": "siege",
+    "number": 36315
+  },
+  {
+    "word": "sieges",
+    "number": 536315
+  },
+  {
+    "word": "sigh",
+    "number": 4615
+  },
+  {
+    "word": "sighs",
+    "number": 54615
+  },
+  {
+    "word": "sill",
+    "number": 7715
+  },
+  {
+    "word": "sillies",
+    "number": 5317715
+  },
+  {
+    "word": "sills",
+    "number": 57715
+  },
+  {
+    "word": "silo",
+    "number": 0.715
+  },
+  {
+    "word": "silos",
+    "number": 50715
+  },
+  {
+    "word": "sis",
+    "number": 515
+  },
+  {
+    "word": "sises",
+    "number": 53515
+  },
+  {
+    "word": "sisses",
+    "number": 535515
+  },
+  {
+    "word": "sissies",
+    "number": 5315515
+  },
+  {
+    "word": "size",
+    "number": 3215
+  },
+  {
+    "word": "sizes",
+    "number": 53215
+  },
+  {
+    "word": "sizzle",
+    "number": 372215
+  },
+  {
+    "word": "sizzles",
+    "number": 5372215
+  },
+  {
+    "word": "sleigh",
+    "number": 461375
+  },
+  {
+    "word": "sleighs",
+    "number": 5461375
+  },
+  {
+    "word": "slob",
+    "number": 8075
+  },
+  {
+    "word": "slobs",
+    "number": 58075
+  },
+  {
+    "word": "sloe",
+    "number": 3075
+  },
+  {
+    "word": "sloes",
+    "number": 53075
+  },
+  {
+    "word": "slog",
+    "number": 6075
+  },
+  {
+    "word": "slogs",
+    "number": 56075
+  },
+  {
+    "word": "slosh",
+    "number": 45075
+  },
+  {
+    "word": "sloshes",
+    "number": 5345075
+  },
+  {
+    "word": "sob",
+    "number": 805
+  },
+  {
+    "word": "sobs",
+    "number": 5805
+  },
+  {
+    "word": "soil",
+    "number": 7105
+  },
+  {
+    "word": "soils",
+    "number": 57105
+  },
+  {
+    "word": "sol",
+    "number": 705
+  },
+  {
+    "word": "sole",
+    "number": 3705
+  },
+  {
+    "word": "soles",
+    "number": 53705
+  },
+  {
+    "word": "soli",
+    "number": 1705
+  },
+  {
+    "word": "solo",
+    "number": 0.705
+  },
+  {
+    "word": "solos",
+    "number": 50705
+  },
+  {
+    "word": "sols",
+    "number": 5705
+  },
+  {
+    "word": "zoos",
+    "number": 5002
+  },
+  {
+    "word": "Beebe",
+    "number": 38338
+  },
+  {
+    "word": "Belize",
+    "number": 321738
+  },
+  {
+    "word": "Bell",
+    "number": 7738
+  },
+  {
+    "word": "Bess",
+    "number": 5538
+  },
+  {
+    "word": "Bessel",
+    "number": 735538
+  },
+  {
+    "word": "Bessie",
+    "number": 315538
+  },
+  {
+    "word": "Bib",
+    "number": 818
+  },
+  {
+    "word": "Bible",
+    "number": 37818
+  },
+  {
+    "word": "Bibles",
+    "number": 537818
+  },
+  {
+    "word": "Bilbo",
+    "number": 0.8718
+  },
+  {
+    "word": "Bill",
+    "number": 7718
+  },
+  {
+    "word": "Billie",
+    "number": 317718
+  },
+  {
+    "word": "Bligh",
+    "number": 46178
+  },
+  {
+    "word": "Bob",
+    "number": 808
+  },
+  {
+    "word": "Bobbi",
+    "number": 18808
+  },
+  {
+    "word": "Bobbie",
+    "number": 318808
+  },
+  {
+    "word": "Boise",
+    "number": 35108
+  },
+  {
+    "word": "Boole",
+    "number": 37008
+  },
+  {
+    "word": "Bose",
+    "number": 3508
+  },
+  {
+    "word": "Elbe",
+    "number": 3873
+  },
+  {
+    "word": "Eli",
+    "number": 173
+  },
+  {
+    "word": "Elise",
+    "number": 35173
+  },
+  {
+    "word": "Eliseo",
+    "number": 0.35173
+  },
+  {
+    "word": "Ellie",
+    "number": 31773
+  },
+  {
+    "word": "Ellis",
+    "number": 51773
+  },
+  {
+    "word": "Eloise",
+    "number": 351073
+  },
+  {
+    "word": "Elsie",
+    "number": 31573
+  },
+  {
+    "word": "Essie",
+    "number": 31553
+  },
+  {
+    "word": "Geo",
+    "number": 0.36
+  },
+  {
+    "word": "Gibbs",
+    "number": 58816
+  },
+  {
+    "word": "Gil",
+    "number": 716
+  },
+  {
+    "word": "Giles",
+    "number": 53716
+  },
+  {
+    "word": "Gill",
+    "number": 7716
+  },
+  {
+    "word": "Gish",
+    "number": 4516
+  },
+  {
+    "word": "Gobi",
+    "number": 1806
+  },
+  {
+    "word": "Goebbels",
+    "number": 57388306
+  },
+  {
+    "word": "Gog",
+    "number": 606
+  },
+  {
+    "word": "Gogol",
+    "number": 70606
+  },
+  {
+    "word": "Google",
+    "number": 376006
+  },
+  {
+    "word": "HBO",
+    "number": 0.84
+  },
+  {
+    "word": "Hebe",
+    "number": 3834
+  },
+  {
+    "word": "Hegel",
+    "number": 73634
+  },
+  {
+    "word": "Helios",
+    "number": 501734
+  },
+  {
+    "word": "Hess",
+    "number": 5534
+  },
+  {
+    "word": "Hesse",
+    "number": 35534
+  },
+  {
+    "word": "Hill",
+    "number": 7714
+  },
+  {
+    "word": "Hillel",
+    "number": 737714
+  },
+  {
+    "word": "Hiss",
+    "number": 5514
+  },
+  {
+    "word": "Hobbes",
+    "number": 538804
+  },
+  {
+    "word": "Hobbs",
+    "number": 58804
+  },
+  {
+    "word": "Hollie",
+    "number": 317704
+  },
+  {
+    "word": "Hollis",
+    "number": 517704
+  },
+  {
+    "word": "Ibo",
+    "number": 0.81
+  },
+  {
+    "word": "Ill",
+    "number": 771
+  },
+  {
+    "word": "Isis",
+    "number": 5151
+  },
+  {
+    "word": "Lee",
+    "number": 337
+  },
+  {
+    "word": "Lego",
+    "number": 0.637
+  },
+  {
+    "word": "Leigh",
+    "number": 46137
+  },
+  {
+    "word": "Leo",
+    "number": 0.37
+  },
+  {
+    "word": "Leos",
+    "number": 5037
+  },
+  {
+    "word": "Les",
+    "number": 537
+  },
+  {
+    "word": "Leslie",
+    "number": 317537
+  },
+  {
+    "word": "Lessie",
+    "number": 315537
+  },
+  {
+    "word": "Lie",
+    "number": 317
+  },
+  {
+    "word": "Liege",
+    "number": 36317
+  },
+  {
+    "word": "Lille",
+    "number": 37717
+  },
+  {
+    "word": "Lillie",
+    "number": 317717
+  },
+  {
+    "word": "Liz",
+    "number": 217
+  },
+  {
+    "word": "Lizzie",
+    "number": 312217
+  },
+  {
+    "word": "Lois",
+    "number": 5107
+  },
+  {
+    "word": "Ohio",
+    "number": 0.140
+  },
+  {
+    "word": "Ollie",
+    "number": 31770
+  },
+  {
+    "word": "Oise",
+    "number": 3510
+  },
+  {
+    "word": "Oslo",
+    "number": 0.750
+  },
+  {
+    "word": "Ozzie",
+    "number": 31220
+  },
+  {
+    "word": "Sheol",
+    "number": 70345
+  },
+  {
+    "word": "Shiloh",
+    "number": 407145
+  },
+  {
+    "word": "Soho",
+    "number": 0.405
+  },
+  {
+    "word": "Sol",
+    "number": 705
+  },
+  {
+    "word": "Solis",
+    "number": 51705
+  },
+  {
+    "word": "Zelig",
+    "number": 61732
+  },
+  {
+    "word": "Zibo",
+    "number": 0.812
+  },
+  {
+    "word": "Zoe",
+    "number": 302
+  }
+]
